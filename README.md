@@ -8,13 +8,16 @@ Welcome to my PointClouds Filtering and Segmentation repository! This repository
 ## PointCloudsFiltering.ipynb:
 The PointClouds Filtering project by is designed to provide a set of tools and algorithms for filtering and cleaning point cloud data. 
 Point clouds are often noisy or contain outliers, making it challenging to work with them effectively.
-* For a better view of the pr
+* For a better view of the project: refer to google colab directly :
 **Features**
 * Noise Reduction: Remove noise from point cloud data to improve the quality and accuracy of subsequent processing steps.
 * Outlier Detection: Identify and remove outlier points that do not belong to the main structure of the point cloud.
 * Downsampling: Reduce the point cloud density while preserving critical information, making it more manageable.
 **Getting Started**
 To get started with the PointClouds Filtering project, please refer to the project-specific notebook for detailed instructions on how to set up and use the filtering tools.
+
+
+
 ## PointCloudsSegmentation.ipynb:
 
 The PointClouds Segmentation project focuses on segmenting point clouds into meaningful parts or objects. Segmentation is crucial for various applications, such as object recognition, scene understanding, and autonomous navigation, as it allows you to extract valuable information from a point cloud dataset.
@@ -26,10 +29,9 @@ The PointClouds Segmentation project focuses on segmenting point clouds into mea
 **Run Code:**
 
 * Clone Repository
-* Download ShapenNet Dataset using the provided script
-
+* Download ShapenNet Dataset using the provided script or using the notebook respective cells.
     ~~~
     python download_dataset.py
     ~~~
 * Install dependencies
-* Use Run the notebook preferably in google colab by changing resource to T4 GPU.
+* Run the notebook preferably in google colab by changing resource to T4 GPU.
