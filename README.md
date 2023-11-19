@@ -1,6 +1,15 @@
 # PointCloudsManipulationSegmentation
 Welcome to my PointClouds Filtering and Segmentation repository! This repository contains two projects aimed at processing and analyzing point clouds, which are essential in various fields such as computer vision, robotics, and environmental scanning.
 
+## About Point clouds:
+Point Clouds play a crucial role in various fields, and their manipulation and segmentation are essential tasks for extracting meaningful information.
+In computer vision applications, point clouds are fundamental for tasks such as 3D object recognition, scene understanding, and reconstruction. 
+
+Robotics heavily relies on point cloud data for tasks like simultaneous localization and mapping (SLAM), obstacle avoidance, and path planning. Efficient manipulation and segmentation of point clouds enable robots to navigate and interact with their environment effectively.
+
+Point clouds are also widely used in environmental scanning, including applications like LiDAR (Light Detection and Ranging). This technology is crucial for mapping terrain, monitoring forests, and assessing the impact of natural disasters. 
+
+
 ## Built with:
    [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat&logo=python)](https://www.python.org/)[![Open3D](https://img.shields.io/badge/Open3D-0.13%2B-blue?style=flat&logo=open3d)](http://www.open3d.org/)
     [![Scikit-learn (sklearn)](https://img.shields.io/badge/Scikit--learn-0.24%2B-yellow?style=flat&logo=scikit-learn)](https://scikit-learn.org/stable/) [![NumPy](https://img.shields.io/badge/NumPy-1.20%2B-yellow?style=flat&logo=numpy)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4%2B-yellow?style=flat&logo=matplotlib)](https://matplotlib.org/)
