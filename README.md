@@ -50,8 +50,8 @@ To get started with the PointClouds Filtering project, please refer to the proje
 
 The PointClouds Segmentation project focuses on segmenting point clouds into meaningful parts or objects. Segmentation is crucial for various applications, such as object recognition, scene understanding, and autonomous navigation, as it allows you to extract valuable information from a point cloud dataset.
 
-* In this instance, I traine kmeans and dbscan for segmenting parts of an airplane.
-* The idea was to be able to successfuly segment an airplane point cloud object into its 4 main parts: body, wings, tail and head.
+* In this instance, I trained kmeans and dbscan for segmenting parts of an airplane.
+* The idea was to be able to successfully segment an airplane point cloud object into its 4 main parts: body, wings, tail, and head.
 * A sample of The result of kmeans is :
     
     
@@ -65,19 +65,18 @@ The PointClouds Segmentation project focuses on segmenting point clouds into mea
 **Run Code:**
 
 * Clone Repository
-* Download ShapenNet Dataset using the provided script or using the notebook respective cells.
+* Download ShapenNet Dataset using the provided script or using the notebook's respective cells.
     ~~~
     python download_dataset.py
     ~~~
 * Install dependencies
-* Run the notebook preferably in google colab by changing resource to T4 GPU.
+* Run the notebook preferably in Google Colab by changing the resource to T4 GPU.
 
 
 
-## Contact:
-Let's connect and explore how my skills and expertise in Machine Learning & Image Processing fit your team.
+## Contact
  Feel free to reach out to me on LinkedIn or through email & don't forget to visit my portfolio.
  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiabelhaddad/)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flgat&logo=gmail)](mailto:samiamagbelhaddad@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-white?style=flat&logo=website)](https://your-portfolio-url-here.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/samiabelhaddad/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-brightgreen?style=flgat&logo=gmail)](mailto:samiamagbelhaddad@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-white?style=flat&logo=website)](https://sambelh.azurewebsites.net/)
